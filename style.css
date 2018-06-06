@@ -154,3 +154,14 @@ body{
 .up{
 	transform: translateY(-30px);
 }
+.img4__p{
+	font-family: Gill;
+	font-size: 14px;
+	line-height: 25px;
+	color: #fff;
+}
+.img4__p1{
+	font-family: PlayfairDisplay-Bold;
+	font-size: 16px;
+	color: #a5a5a5;
+}
