@@ -110,3 +110,33 @@ body{
 	text-align: center;
 	padding-top: 15px;
 }
+.order__p{
+	text-decoration: none;
+	font-family: Gill;
+	font-size: 16px;
+	line-height: 30px;
+	color: #777777;
+	text-transform: uppercase;
+	display: inline-block;
+	margin-top: 100px;
+	margin-bottom: 40px;
+	padding: 0 20px;
+}
+.order__p:hover{
+	text-decoration: underline;
+	color: #fff;
+}
+.order__p1{
+	font-family: Gill;
+	font-size: 16px;
+	color: #a5a5a5;
+	line-height: 30px;
+	text-align: center;
+}
+.order__h{
+	font-family: PlayfairDisplay-Bold;
+	font-size: 160px;
+	line-height: 110px;
+	color: #fe0000;
+	margin-top: 150px;
+}
