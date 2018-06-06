@@ -110,6 +110,11 @@ body{
 	text-align: center;
 	padding-top: 15px;
 }
+.main__shop:hover{
+	transition: 0.3s;
+	background-color: #fe0000;
+	color: #fff;
+}
 .order__p{
 	text-decoration: none;
 	font-family: Gill;
@@ -139,4 +144,13 @@ body{
 	line-height: 110px;
 	color: #fe0000;
 	margin-top: 150px;
+}
+.img4{
+	width: 270px;
+	height: 100%;
+	background-size: contain;
+	margin-right: 10px;
+}
+.up{
+	transform: translateY(-30px);
 }
