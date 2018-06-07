@@ -182,3 +182,12 @@ body{
 .bb{
 	border-bottom: 1px solid grey;
 }
+.footer__p1{
+	color: #777777;
+	text-transform: uppercase;
+	font-family: Gill;
+	font-size: 12px;
+	line-height: 30px;
+	margin-top: 30px;
+	margin-bottom: 200px;
+}
