@@ -191,3 +191,72 @@ body{
 	margin-top: 30px;
 	margin-bottom: 200px;
 }
+
+
+@media only screen and (max-width : 1199px) {
+	.logogo{
+		position: relative;
+		bottom: 35px;
+	}
+	.order__p{
+		padding: 0 10px;
+	}
+	.order__h{
+		font-size: 130px;
+	}
+	.img4{
+		width: 220px;
+	}
+	.img4__p{
+	font-size: 12px;
+	}
+	.img4__p1{
+	font-size: 12px;	
+	}
+	.footer__p{
+		font-size: 12px;
+	}
+
+}
+@media only screen and (max-width : 992px) {
+	.ham{
+		position: relative;
+		bottom: 30px;
+	}
+	.logogo{
+		right: 90px;
+		bottom: 50px;
+	}
+	.order__p{
+		padding: 0 5px;
+		font-size: 12px;
+	}
+	.order__h{
+		font-size: 100px;
+		text-align: center;
+	}
+	.up{
+	position: relative;
+	bottom: 15px;
+	}
+	.img4{
+	width: 170px;
+	}
+	.img4__p{
+	font-size: 10px;
+	}
+	.img4__p1{
+	font-size: 8px;	
+	}
+	.footer__logo{
+		position: relative;
+		right: 70px;
+		height: 40px;
+	}
+	.footer__p{
+		font-size: 18px;
+		line-height: 10px;
+	}
+
+}
+@media only screen and (max-width : 768px) {
