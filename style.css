@@ -260,3 +260,63 @@ body{
 
 }
 @media only screen and (max-width : 768px) {
+	.ham{
+		top: 20px;
+	}
+	.hamaft{
+		position: relative;
+		left: 120px;
+		bottom: 40px;
+	}
+	.logogo{
+	left: -10px;
+	}
+	.main__ph{
+		margin-top: -60px;
+	}
+	.main__p6{
+		display: none;
+	}
+	.img4{
+		width: 120px;
+	}
+	.imga{
+		position: relative;
+		top: 50px;
+	}
+	.imgb{
+		position: relative;
+		left: 150px;
+		bottom: 90px;
+		height: 95%;
+	}
+	.imgc{
+		position: relative;
+		left: 297px;
+		bottom: 244px;
+		height: 77%;
+	}
+	.imgd{
+		position: relative;
+		left: 442px;
+		bottom: 435px;
+		height: 77%;
+	}
+	.img4__p{
+	display: none;
+	}
+	.img4__p1{
+	display: none;
+	}
+	.bb{
+		position: relative;
+		bottom: 700px;
+	}
+	.footer__logo{
+		left: 50px;
+	}
+	.footer__p1{
+		position: relative;
+		bottom: 700px;
+	}
+}
